@@ -2,3 +2,5 @@ Hola
 Buenos dias
 Buenas tardes
 Como va
+Adios
+Chau
